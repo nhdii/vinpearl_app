@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76223125644",
+    "project_id": "booking-tour-3f401",
+    "storage_bucket": "booking-tour-3f401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76223125644:android:fade1ccca365618346c3a9",
+        "android_client_info": {
+          "package_name": "vn.edu.ntu.hoaidii.vinpearl_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76223125644-bme4s26970ksqd2qc4v8lp3c9331bpqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD02u3htrtXqV7KNXERgh-jkqQPiUqlrWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76223125644-bme4s26970ksqd2qc4v8lp3c9331bpqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
